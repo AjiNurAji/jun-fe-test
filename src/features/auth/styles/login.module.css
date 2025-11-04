@@ -1,0 +1,14 @@
+.loginBox {
+  width: 400px;
+}
+
+.headerCard {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+/* @media screen and (max-width: 768px) {
+  .loginBox {
+    width: 250px;
+  }
+} */
